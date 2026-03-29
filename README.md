@@ -1,8 +1,8 @@
 # SecurePass-A-Java-based-Password-Validation-and-Security-Engine
 
-import java.util.Scanner;
-public class Main {
-    public  static void main(String[]args) {
+    import java.util.Scanner;
+    public class Main {
+      public  static void main(String[]args) {
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("(Note-> Password Should contain Atleast 8 characters , 1 special Character and Should not contain Any spaces ) \nPlease Enter Your Desired Password : ");
